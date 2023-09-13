@@ -1,5 +1,5 @@
 # Introduction
-Hello viewer and welcome to my submission for Challenge 11 aka the webscraping-challenge. For context, at the time of writing this, I am enrolled in the Data Analytics and Visualizations bootcamp with the University of MN. We are assigned a challenge homework per module. This is Module 11's challenge on web scraping. I am using a windows/PC laptop. I recently received feedback on improving my readme files so moving forward they will contain more information.
+Hello viewer and welcome to my submission for Challenge 11 aka the webscraping-challenge. For context, at the time of writing this, I am enrolled in the Data Analytics and Visualizations bootcamp with the University of MN. We are assigned a challenge homework per module. This is Module 11's challenge on web scraping. I am using a windows/PC laptop.
 
 # Overview
 There are two parts to this specific challenge: 1) Scrape titles and preview text from Mars news articles and 2) Scrape and analyze Mars weather data, which exists in a table. We were given two starter codes that we had to complete.
@@ -19,4 +19,3 @@ Stackoverflow. (2023, July 30). The real difference between float32 and float64.
 
 Used to trouble shoot a reoccuring error when beginning my web scrape:
 Walters, A. (2023, March 24). How to Deal With No Such Window Exception In Selenium. testRigor. Retrieved from https://testrigor.com/blog/how-to-deal-with-nosuchwindowexception-in-selenium/
-![Alt text]("C:\Users\leean\OneDrive\Pictures\Screenshots\Screenshot 2023-09-12 223344.png")
