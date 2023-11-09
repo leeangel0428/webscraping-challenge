@@ -20,8 +20,5 @@ Stackoverflow. (2023, July 30). The real difference between float32 and float64.
 Used to trouble shoot a reoccuring error when beginning my web scrape:
 Walters, A. (2023, March 24). How to Deal With No Such Window Exception In Selenium. testRigor. Retrieved from https://testrigor.com/blog/how-to-deal-with-nosuchwindowexception-in-selenium/
 
-### Grade:
-![Screenshot 2023-10-15 220633](https://github.com/leeangel0428/Excel_analysis/assets/137225965/3bfa011b-0178-4d75-897a-3ac943b115c0)
 
-![Screenshot 2023-10-15 220645](https://github.com/leeangel0428/Excel_analysis/assets/137225965/e0e94bc2-4d95-4321-b1b1-439aa6242b74)
 
